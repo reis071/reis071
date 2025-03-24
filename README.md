@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AFEEEE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AFEEEE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme;I'm+20+years+old;I'm+from+Brazil;I'm+Graduating+Computer+Science;I'm+Systems+Development+Technique;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AFEEEE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme;I'm+21+years+old;I'm+from+Brazil;I'm+Graduating+Computer+Science;I'm+Systems+Development+Technique;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Education 🎓:
 ##### professional AI Course Compass Uol
